@@ -1,5 +1,5 @@
 # Android Basics Guide
-Guide to all basic Android Dev tricks in one file! This repository is open to your suggestions and pull requests. It contains many links on various important Android Development topics. Just add your own!
+Guide to all basic Android Dev tricks in one file! This repository is open to your suggestions and pull requests. It contains many links on various important Android Development topics. What's important in Android Development? Just add your own links and text recommendations!
 
 ## Architecture as it is
 
@@ -48,6 +48,22 @@ Room StartAndroid lessons: https://startandroid.ru/ru/courses/architecture-compo
 SQLite debug: https://medium.com/better-programming/android-best-sqlite-debugging-tools-a9a8da07568f
 
 Do I need to call suspend functions of Retrofit and Room on a background thread? https://proandroiddev.com/do-i-need-to-call-suspend-functions-of-retrofit-and-room-on-a-background-thread-26650dac762d
+
+## RecyclerViews are important!
+
+Example of usage DiffUtil with RecyclerView: https://github.com/guenodz/livedata-recyclerview-sample/blob/master/app/src/main/java/me/guendouz/livedata_recyclerview/PostsAdapter.java
+
+Use case: DragSelect RecyclerView like Google Photos: https://github.com/afollestad/drag-select-recyclerview
+
+ViewPager and it's pages with RecyclerView: How to Fix ViewPager scrolling issue? You can use this
+
+    recyclerView.setNestedScrollingEnabled(false);
+    
+DiffUtils under the hood: https://www.youtube.com/watch?v=uhtYuvubVm8&feature=youtu.be
+
+MergeAdapter. how to show data from different adapters in a one RecyclerView consequently? https://medium.com/@prafullmishra09/fuse-your-lists-with-mergeadapter-aedfa4af209b
+
+RecyclerView and Touch Events: https://veldan1202.medium.com/touch-event-management-c69d156fda96
 
 ## Building faster, building better
 
