@@ -39,6 +39,32 @@ Popular mistakes: https://medium.com/google-developer-experts/misnomers-mistakes
 
 How to trust all HTTPS certificates: https://futurestud.io/tutorials/retrofit-2-how-to-trust-unsafe-ssl-certificates-self-signed-expired
 
+## In-App Billing
+
+Official Google Billing guide: https://developer.android.com/google/play/billing/billing_library_overview
+
+Old explanation on Habr: https://m.habr.com/ru/post/444072/
+
+Serso Billing library: https://github.com/serso/android-checkout
+
+Really important links (with some samples like TrivialDrive!):
+
+https://developer.android.com/google/play/billing/integrate?authuser=0&skip_cache=true#pending
+
+https://accounts.google.com/o/oauth2/v2/auth?client_id=721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fdeveloper.android.com%2Foauth2callback&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdeveloperprofiles+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdeveloperprofiles.award+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgoogledevelopers&access_type=online&response_type=code&state=%7B%22csrf_token%22%3A+%229fbc30ffaab96b502a3a751a1238638ec7d79e9b6403ed7d30fea677802fe2b8%22%2C+%22return_url%22%3A+%22https%3A%2F%2Fdeveloper.android.com%2Fgoogle%2Fplay%2Fbilling%2Fintegrate%3Fauthuser%3D0%26skip_cache%3Dtrue%22%7D&prompt=none&auto_signin=True#pending
+
+https://stackoverflow.com/questions/62504562/google-play-billing-api-how-to-understand-the-user-is-subscribed
+
+https://github.com/android/play-billing-samples/blob/main/TrivialDriveKotlin/app/src/main/java/com/sample/android/trivialdrivesample/TrivialDriveApplication.kt
+
+https://github.com/android/play-billing-samples/blob/main/TrivialDriveKotlin/app/src/main/java/com/sample/android/trivialdrivesample/billing/BillingDataSource.kt
+
+https://stackoverflow.com/questions/47990462/using-live-data-how-to-display-a-dialog-only-once
+
+https://github.com/android/play-billing-samples/blob/main/ClassyTaxiJava/app/src/main/java/com/sample/android/classytaxijava/billing/BillingClientLifecycle.java
+
+https://stackoverflow.com/questions/66010079/google-play-billing-library-3-0-restore-purchase
+
 ## Local Data: SQLite + Room
 
 5 steps to implement Room persistance library: https://android.jlelse.eu/5-steps-to-implement-room-persistence-library-in-android-47b10cd47b24
