@@ -75,7 +75,7 @@ SQLite debug: https://medium.com/better-programming/android-best-sqlite-debuggin
 
 Do I need to call suspend functions of Retrofit and Room on a background thread? https://proandroiddev.com/do-i-need-to-call-suspend-functions-of-retrofit-and-room-on-a-background-thread-26650dac762d
 
-## RecyclerViews are important!
+## UI: RecyclerViews are important!
 
 Example of usage DiffUtil with RecyclerView: https://github.com/guenodz/livedata-recyclerview-sample/blob/master/app/src/main/java/me/guendouz/livedata_recyclerview/PostsAdapter.java
 
@@ -90,6 +90,22 @@ DiffUtils under the hood: https://www.youtube.com/watch?v=uhtYuvubVm8&feature=yo
 MergeAdapter. how to show data from different adapters in a one RecyclerView consequently? https://medium.com/@prafullmishra09/fuse-your-lists-with-mergeadapter-aedfa4af209b
 
 RecyclerView and Touch Events: https://veldan1202.medium.com/touch-event-management-c69d156fda96
+
+## UI: Custom Views and useful view libraries!
+
+Using compound ViewGroups instead of many views: https://android.jlelse.eu/app-rating-bar-making-a-compound-viewgroup-in-android-adb2bd25f4cc
+
+SubsamplingScaleImageView for your gallery image viewer: https://github.com/davemorrissey/subsampling-scale-image-view/
+
+Increasing optimization: Lazy inflating fragment with ViewStub! https://medium.com/@raymondctc/android-performance-lazy-inflating-fragment-with-viewstub-b51b2682ec0c
+
+Jetpack Compose equivalents! https://www.jetpackcompose.app/What-is-the-equivalent-of-TextView-in-Jetpack-Compose
+
+Touch Event management: https://veldan1202.medium.com/touch-event-management-c69d156fda96
+
+## Dependency Injection: Dagger alternatives!
+
+Koin vs Dagger, Say hello to Koin: https://link.medium.com/Vfu6MrGjnU
 
 ## Building faster, building better
 
