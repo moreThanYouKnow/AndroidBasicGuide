@@ -1,5 +1,23 @@
 # Android Basics Guide
-Guide to all basic Android Dev tricks in one file!
+Guide to all basic Android Dev tricks in one file! This repository is open to your suggestions and pull requests. It contains many links on various important Android Development topics. Just add your own!
+
+## Architecture as it is
+
+Why should your app be Single Activity with fragments: https://m.habr.com/ru/company/redmadrobot/blog/426617/
+
+Android Architecture Components: Room, LiveData -> ViewModel: https://medium.com/@gadi.krn/android-architecture-components-make-your-app-as-you-dreamed-9a786fce67ea
+
+Typical mistakes with Architecture Components: https://devcolibri.com/5-common-mistakes-when-using-architecture-components/
+
+Sample of clean and modularized Android app: https://proandroiddev.com/android-architecture-d7405db1361c
+
+When to load data in ViewModels? https://proandroiddev.com/when-to-load-data-in-viewmodels-ad9616940da7
+
+Multi-modules & MVVM (Google Clean Architecture): https://proandroiddev.com/android-architecture-d7405db1361c
+
+Note: ViewModel doesn't replace onSaveInstanceState! onSaveInstanceState is used for local UI state (not reliable on data). ViewModel destroying when app goes to background for a long time but onSaveInstanceState data remains, and you can obtain it in onCreate or some other methods.
+
+Internals of Android OC: Stack Architecture: https://proglib.io/w/4970e537
 
 ## Long asynchronous operations: Coroutines
 
