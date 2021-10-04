@@ -30,3 +30,22 @@ Room StartAndroid lessons: https://startandroid.ru/ru/courses/architecture-compo
 SQLite debug: https://medium.com/better-programming/android-best-sqlite-debugging-tools-a9a8da07568f
 
 Do I need to call suspend functions of Retrofit and Room on a background thread? https://proandroiddev.com/do-i-need-to-call-suspend-functions-of-retrofit-and-room-on-a-background-thread-26650dac762d
+
+## Building faster, building better
+
+Shrinking apk size and build time: https://medium.com/linedevth/build-your-android-app-faster-and-smaller-than-ever-25f53fdd3cdc
+
+Decreasing app size using modules: https://playacademy.exceedlms.com/student/path/13019-decrease-app-size-and-deliver-features-on-demand?utm_source=newsletter&utm_medium=email&utm_campaign=AAB_newsletter
+
+Dealing with invisible Gradle dependencies: https://proandroiddev.com/android-gradle-and-the-curious-case-of-invisible-dependency-7f1bcc8bb79e
+
+Better dependency management with Android Studio 3.5+ : prglb.ru/24r6s
+
+Incremental annotation processing for faster builds: https://habr.com/ru/company/hh/blog/484918/
+
+Speeding up Android Studio:
+https://medium.com/@ankushkapoor2015/how-to-speed-up-android-studio-43aed38d248f
+
+Gradle Experimental feature to increase building speed: https://blog.gradle.org/introducing-file-system-watching
+
+Build speed optimization: https://www.crazylegend.dev/2020/07/optimize-build-speeds-for-your-android.html
