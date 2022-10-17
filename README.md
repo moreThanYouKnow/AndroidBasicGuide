@@ -25,8 +25,6 @@ Note: ViewModel doesn't replace onSaveInstanceState! onSaveInstanceState is used
 
 Internals of Android OC: Stack Architecture: https://proglib.io/w/4970e537
 
-
-
 ## Long asynchronous operations: Coroutines
 
 Basic coroutines recipes: https://proandroiddev.com/android-coroutine-recipes-33467a4302e9
@@ -88,6 +86,15 @@ SQLite debug: https://medium.com/better-programming/android-best-sqlite-debuggin
 
 Do I need to call suspend functions of Retrofit and Room on a background thread? https://proandroiddev.com/do-i-need-to-call-suspend-functions-of-retrofit-and-room-on-a-background-thread-26650dac762d
 
+## Permission requests
+
+Permissions on Android: https://developer.android.com/guide/topics/permissions/overview
+
+Request app permissions: https://developer.android.com/training/permissions/requesting
+(official explanation)
+
+Permissions and Material Design: https://material.io/design/platform-guidance/android-permissions.html
+
 ## UI: RecyclerViews are important!
 
 Example of usage DiffUtil with RecyclerView: https://github.com/guenodz/livedata-recyclerview-sample/blob/master/app/src/main/java/me/guendouz/livedata_recyclerview/PostsAdapter.java
@@ -119,6 +126,12 @@ Touch Event management: https://veldan1202.medium.com/touch-event-management-c69
 ## Dependency Injection: Dagger alternatives!
 
 Koin vs Dagger, Say hello to Koin: https://link.medium.com/Vfu6MrGjnU
+
+Koin's official website: https://insert-koin.io/
+
+Koin: Lightweight Dependency Injection Framework: https://www.baeldung.com/kotlin/koin-di
+
+
 
 ## Building faster, building better
 
