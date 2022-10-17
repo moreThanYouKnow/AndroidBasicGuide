@@ -3,6 +3,12 @@ Guide to all basic Android Dev tricks in one file! This repository is open to yo
 
 ## Architecture as it is
 
+If you're looking for something official, you can watch some good explanations here:  
+Official guide to app architecture: https://developer.android.com/topic/architecture
+Good course from Google: https://developer.android.com/courses/pathways/android-architecture
+
+But we also want to share this beautiful author's articles with you. Don't be afraid to read them:
+
 Why should your app be Single Activity with fragments: https://m.habr.com/ru/company/redmadrobot/blog/426617/
 
 Android Architecture Components: Room, LiveData -> ViewModel: https://medium.com/@gadi.krn/android-architecture-components-make-your-app-as-you-dreamed-9a786fce67ea
@@ -18,6 +24,8 @@ Multi-modules & MVVM (Google Clean Architecture): https://proandroiddev.com/andr
 Note: ViewModel doesn't replace onSaveInstanceState! onSaveInstanceState is used for local UI state (not reliable on data). ViewModel destroying when app goes to background for a long time but onSaveInstanceState data remains, and you can obtain it in onCreate or some other methods.
 
 Internals of Android OC: Stack Architecture: https://proglib.io/w/4970e537
+
+
 
 ## Long asynchronous operations: Coroutines
 
@@ -37,7 +45,12 @@ Popular mistakes: https://medium.com/google-developer-experts/misnomers-mistakes
 
 ## Internet API Requests: Retrofit
 
+Official (and so qualitative!) materials on retrofit basics: https://futurestud.io/learningpaths/retrofit-basics
+
+Unofficial (but also very good) article: https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23
+
 How to trust all HTTPS certificates: https://futurestud.io/tutorials/retrofit-2-how-to-trust-unsafe-ssl-certificates-self-signed-expired
+(We don't recommend you do that! :))
 
 ## In-App Billing
 
