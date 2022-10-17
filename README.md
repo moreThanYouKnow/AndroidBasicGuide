@@ -52,6 +52,9 @@ How to trust all HTTPS certificates: https://futurestud.io/tutorials/retrofit-2-
 
 ## In-App Billing
 
+In-App Billing mechanisms, unfortunately, change every year. But here you can get the most relevant info on billing integration:
+https://developer.android.com/google/play/billing/integrate
+
 Official Google Billing guide: https://developer.android.com/google/play/billing/billing_library_overview
 
 Old explanation on Habr: https://m.habr.com/ru/post/444072/
@@ -140,8 +143,6 @@ Shrinking apk size and build time: https://medium.com/linedevth/build-your-andro
 Decreasing app size using modules: https://playacademy.exceedlms.com/student/path/13019-decrease-app-size-and-deliver-features-on-demand?utm_source=newsletter&utm_medium=email&utm_campaign=AAB_newsletter
 
 Dealing with invisible Gradle dependencies: https://proandroiddev.com/android-gradle-and-the-curious-case-of-invisible-dependency-7f1bcc8bb79e
-
-Better dependency management with Android Studio 3.5+ : prglb.ru/24r6s
 
 Incremental annotation processing for faster builds: https://habr.com/ru/company/hh/blog/484918/
 
