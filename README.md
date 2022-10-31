@@ -135,6 +135,13 @@ Complete explanation on widgets in Android (Medium article): https://medium.com/
 
 StartAndroid about widgets: https://startandroid.ru/ru/uroki/vse-uroki-spiskom/195-urok-117-vidzhety-sozdanie-lifecycle.html
 
+
+## Design as it is!
+Official info: https://developer.android.com/design
+
+Material You concept: https://material.io/blog/announcing-material-you
+
+
 ## Dependency Injection: Dagger alternatives!
 
 Koin vs Dagger, Say hello to Koin: https://link.medium.com/Vfu6MrGjnU
@@ -161,3 +168,18 @@ https://medium.com/@ankushkapoor2015/how-to-speed-up-android-studio-43aed38d248f
 Gradle Experimental feature to increase building speed: https://blog.gradle.org/introducing-file-system-watching
 
 Build speed optimization: https://www.crazylegend.dev/2020/07/optimize-build-speeds-for-your-android.html
+
+
+
+
+# Flutter
+
+Are you only doing native development in 2022? you've lost. Flutter is driving today!
+
+Official Flutter page: https://flutter.dev/
+
+An Introduction to Flutter: The Basics: https://www.freecodecamp.org/news/an-introduction-to-flutter-the-basics-9fe541fd39e2/
+
+Creating a Flutter Widget from scratch: https://medium.com/flutter-community/creating-a-flutter-widget-from-scratch-a9c01c47c630
+
+
