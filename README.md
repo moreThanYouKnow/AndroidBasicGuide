@@ -182,4 +182,14 @@ An Introduction to Flutter: The Basics: https://www.freecodecamp.org/news/an-int
 
 Creating a Flutter Widget from scratch: https://medium.com/flutter-community/creating-a-flutter-widget-from-scratch-a9c01c47c630
 
+## Flutter App Architecture
 
+Flutter architectural overview (official): https://docs.flutter.dev/resources/architectural-overview
+
+Flutter App Architecture. Introduction | by Julius Canute: https://medium.com/swlh/flutter-app-architecture-1a2a2a4124c8
+
+Flutter App Architecture with Riverpod: An Introduction: https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/
+
+Very good layered architecture in Flutter: https://verygood.ventures/blog/very-good-flutter-architecture
+
+And that's all for now, stay tuned for the future updates ;)
