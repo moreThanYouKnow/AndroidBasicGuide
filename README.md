@@ -126,6 +126,15 @@ Jetpack Compose equivalents! https://www.jetpackcompose.app/What-is-the-equivale
 
 Touch Event management: https://veldan1202.medium.com/touch-event-management-c69d156fda96
 
+## UI: Widgets!
+Create a simple widget (official tutorial by Google): https://developer.android.com/develop/ui/views/appwidgets
+
+Create an advanced widget (official tutorial by Google): https://developer.android.google.cn/develop/ui/views/appwidgets/advanced
+
+Complete explanation on widgets in Android (Medium article): https://medium.com/android-bits/android-widgets-ad3d166458d3
+
+StartAndroid about widgets: https://startandroid.ru/ru/uroki/vse-uroki-spiskom/195-urok-117-vidzhety-sozdanie-lifecycle.html
+
 ## Dependency Injection: Dagger alternatives!
 
 Koin vs Dagger, Say hello to Koin: https://link.medium.com/Vfu6MrGjnU
